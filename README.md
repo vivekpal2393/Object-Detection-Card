@@ -1,4 +1,4 @@
-# Object-Detection-Card
+# Custom Trained YOLOv3 for Object-Detection-Card
 
 Everything you need in order to get YOLOv3 and running in the cloud. Learn to train your custom YOLOv3 object detector in the cloud for free! All the required files are available in this repo.
 
