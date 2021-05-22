@@ -7,5 +7,6 @@ Everything you need in order to get YOLOv3 and running in the cloud. Learn to tr
 > obj.data - Setting file <br>
 > obj.names - Category file <br>
 > yolov3_custom.cfg - Configuration file <br>
+> Yolo v3_testing.ipynb - Script to test the Model on Local Computer<br>
 
 
